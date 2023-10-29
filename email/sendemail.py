@@ -8,10 +8,10 @@ email_sender = "oceanekasindupro@gmail.com"
 email_password = password
 
 # Information about the receiver 
-email_receiver = "tracy.kasindu@gmail.com"
+email_receiver = "sendermail@gmail.com"
 
 # The mail subject and message 
-subject = "Tarte au pomme ! "
+subject = "Tarte au pomme !"
 body="""
 C'est le body de notre message  !!
  """

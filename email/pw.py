@@ -1,1 +1,1 @@
-password = "qzit enau kgte jnov"
+password = "insert your password here"
