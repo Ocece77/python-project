@@ -7,9 +7,7 @@ Feel free to explore these projects and use them as a resource to learn and impr
 ## 📋 List of Projects
 
 1. [Project 1: Email Sender](/email)
-   - Description: A simple email sender.
-   - Details: [/project-calculator/README.md](https://github.com/Ocece77/python-project/tree/main/email)
-
+   - Description: A simple email sender
 ## ⚙️ How to Use These Projects
 
 Each project is accompanied by its own README, which explains how to set it up and run it. Make sure you have Python installed on your machine to execute these projects. You can find specific instructions in each project's README.
