@@ -18,7 +18,7 @@ If you'd like to contribute to any of these projects by making improvements or f
 
 ## 📬 Contact
 
-If you have questions or comments, don't hesitate to contact me via email at [your@email.com] or on [your GitHub account](https://github.com/yourusername).
+If you have questions or comments, don't hesitate to contact me via email at [oceanekasindpro@gmail.com] or on [ocece77](https://github.com/ocece77).
 
 Enjoy learning and exploring these Python projects! 🎉
 
