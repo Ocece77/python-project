@@ -15,8 +15,6 @@ def replace_word():
     print(r)
         
         
-
-
     
 
 replace_word()
