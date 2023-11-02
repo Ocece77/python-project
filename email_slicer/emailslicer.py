@@ -7,7 +7,7 @@ def email_slicer() -> None:
                 domain, ext = domain.split(".")
                 break  # If both "@" and "." are present, break out of the loop
             else:
-                print("Invalid email address. Domain must contain a '.'. Please try again.")
+                print("Invalid email address. The email must contain a '.'. Please try again.")
         else:
             print("Invalid email address. Please try again")
 
