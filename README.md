@@ -10,17 +10,20 @@ Feel free to explore these projects and use them as a resource to learn and impr
    - Description: A simple email sender
   
      
-2. [Project 2: Word remplacement](/[str_repl])
+2. [Project 2: Word remplacement](/str_repl)
    - Description: A remplacement algorithm
 
-3. [Project 3: email slicer](/[email_slicer])
+3. [Project 3: email slicer](/email_slicer)
    - Description: An programm that slice the email in three part
 
-4. [Project 4: calculator](/[calculator])
+4. [Project 4: calculator](/calculator)
    - Description: A simple calculator
   
-5. [Project 5: Binary search](/[binairy_search])
+5. [Project 5: Binary search](/binairy_search)
    - Description: A binary seach algorithm !
+     
+5. [Project 6: Kpop Quiz !](/quiz)
+   - Description: A Kpop Quiz made in python  !
    
 ## ⚙️ How to Use These Projects
 
