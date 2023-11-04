@@ -27,6 +27,9 @@ Feel free to explore these projects and use them as a resource to learn and impr
       
 7. [Project 7: Snake game !](/snake_game)
    - Description: A Snake game made in python Tkinter  !
+         
+8. [Project 8: Interest calculator !](/interest_calculator)
+   - Description: A simple Interest calculator !
    
 ## ⚙️ How to Use These Projects
 
