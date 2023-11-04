@@ -55,11 +55,10 @@ print("Okay ! Let's get started!")
 time.sleep(1)
 
 
-#Display and verify each answer
-
-
 score = 0 #initialize the score
 
+
+#Display and verify each answer
 
 for key, value in questions.items():
     
@@ -71,12 +70,14 @@ for key, value in questions.items():
     else :
           print(f"\nIncorrect :c \nYour score is {score} / 6\n")
 
+#Display the final score !
+
 time.sleep(1)
 print(f"-----------Loading-----------")
 time.sleep(1)
 print(f"Your final score is {score} / 6")
 time.sleep(1)
-print(f"This represent {round((score/6)* 100)} % of good answer")
+print(f"This represent {round((score/6)* 100)} % of good answer\n")
 time.sleep(1)
 
 if score  >= 1 and score <= 3:
