@@ -22,8 +22,11 @@ Feel free to explore these projects and use them as a resource to learn and impr
 5. [Project 5: Binary search](/binairy_search)
    - Description: A binary seach algorithm !
      
-5. [Project 6: Kpop Quiz !](/quiz)
+6. [Project 6: Kpop Quiz !](/quiz)
    - Description: A Kpop Quiz made in python  !
+      
+7. [Project 7: Snake game !](/snake_game)
+   - Description: A Snake game made in python Tkinter  !
    
 ## ⚙️ How to Use These Projects
 
