@@ -30,6 +30,12 @@ Feel free to explore these projects and use them as a resource to learn and impr
          
 8. [Project 8: Interest calculator !](/interest_calculator)
    - Description: A simple Interest calculator !
+
+9. [Project 9: Dice simulator !](/dice_simulator)
+   - Description: A dice simulator where you can roll a dice to play with!
+
+10. [Project 10: Website checker !](/website_checker)
+   - Description: Check if you can accesss to a website!
    
 ## ⚙️ How to Use These Projects
 
