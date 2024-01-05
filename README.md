@@ -9,7 +9,6 @@ Feel free to explore these projects and use them as a resource to learn and impr
 1. [Project 1: Email Sender](/email)
    - Description: A simple email sender
   
-     
 2. [Project 2: Word remplacement](/str_repl)
    - Description: A remplacement algorithm
 
@@ -36,7 +35,9 @@ Feel free to explore these projects and use them as a resource to learn and impr
 
 10. [Project 10: Website checker !](/website_checker)
    - Description: Check if you can accesss to a website!
-   
+
+11. [Project 11: Automatic Sender !](/website_checker)
+   - Description: Send automatic text message using TextBelt API!
 ## ⚙️ How to Use These Projects
 
 Each project is accompanied by its own README, which explains how to set it up and run it. Make sure you have Python installed on your machine to execute these projects. You can find specific instructions in each project's README.
